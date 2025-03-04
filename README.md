@@ -1,2 +1,2 @@
-# goit-algo2-hw-01
-Algorithms 2 Homework 1
+# Algorithms 2 - Homework 1
+Пошук максимального та мінімального елементів методом "розділяй і володарюй"
